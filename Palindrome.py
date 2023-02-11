@@ -1,6 +1,6 @@
 a = input("Enter the value or word : ")
 reverse = a[::-1]
-
+print ("Chandra")
 if( a == reverse ):
     print("yes it is palindrome")
 else:
